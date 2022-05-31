@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandam</h1>
+<h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">Artificial Intelligence enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csoren66&label=Profile%20views&color=0e75b6&style=flat" alt="csoren66" /> </p>
