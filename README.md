@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**csoren66/csoren66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Chandam</h1>
 <h3 align="center">Artificial Intelligence enthusiast</h3>
 
