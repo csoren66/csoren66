@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
-<h3 align="center">Artificial Intelligence enthusiast</h3>
+
 
 - 🔭 I’m currently working on projects related to data science and machine learning.
 - 🌱 I’m curious to learn new things every day.
