@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chandan</h1>
 <h3 align="center">Artificial Intelligence enthusiast</h3>
 
+- 🔭 I’m currently working on projects related to data science and machine learning.
+- 🌱 I’m curious to learn new things every day.
+- 👯 I’m looking to collaborate in deep learning and reinforcement learning related projects.
+- 🤔 I’m looking for a study partner to learn NLP and Computer Vision.
+- 💬 Ask me anything Tech.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csoren66&label=Profile%20views&color=0e75b6&style=flat" alt="csoren66" /> </p>
 
 <h3 align="left">Connect with me:</h3>
