@@ -1,22 +1,40 @@
-<h1 align="center">Hi 👋, I'm Chandan</h1>
+<h1 align="center"> Hi, I'm Chandan Soren! 👋</h1>
+
+I'm a Data Scientist with a background in Mechanical Engineering and a strong passion for Machine Learning, Deep Learning, and Natural Language Processing. I love working on innovative projects that use AI to solve real-world problems. My technical skills are complemented by hands-on experience with MLOps, cloud deployment, and advanced programming frameworks.
+
+---
+
+## 🚀 Skills
+
+- **Programming Languages**: Python, C
+- **Databases**: MySQL, MongoDB
+- **Web Technologies**: HTML, CSS, JavaScript, Flask, Django
+- **Frameworks**: Sklearn, Scipy, Keras, NLTK, TensorFlow, PyTorch, OpenCV, HuggingFace
+- **Machine Learning**: Supervised & Unsupervised Learning, Model Evaluation
+- **Deep Learning**: CNN, RNN, LSTM, GANs, Transfer Learning, Object Detection, Computer Vision
+- **Natural Language Processing**: BERT, Transformers, Language Modeling, NER
+- **Generative AI**: LLMs (GPT-3.5, Llama 3.2), Diffusion Models (DALL-E 2, Stable Diffusion)
+- **MLOps Tools**: DVC, MLflow, GitHub Actions, CircleCI
+- **Cloud & Containers**: Azure, Heroku, Git, Docker
+
+---
+
+## 💼 Experience
+
+### Data Science Intern @ Technook (Bengaluru, India)
+*September 2022 - November 2022*
+
+- Developed a predictive model for medical insurance costs using machine learning algorithms.
+- Conducted data analysis to identify key factors influencing claims.
+- Gained expertise in Python, data preprocessing, and model evaluation metrics.
 
 
-- 🔭 I’m currently working on projects related to data science and machine learning.
-- 🌱 I’m curious to learn new things every day.
-- 👯 I’m looking to collaborate in deep learning and reinforcement learning related projects.
-- 🤔 I’m looking for a study partner to learn NLP and Computer Vision.
-- 💬 Ask me anything Tech.
+## 👥 Get in Touch
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csoren66&label=Profile%20views&color=0e75b6&style=flat" alt="csoren66" /> </p>
+- **LinkedIn**: [linkedin.com/in/chandansoren](https://www.linkedin.com/in/chandansoren/)
+- **GitHub**: [github.com/csoren66](https://github.com/csoren66)
+- **Email**: [sorenchandan82@gmail.com](mailto:sorenchandan82@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/csoren66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csoren66" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandan-soren-7b5123158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandan-soren-7b5123158/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csoren66&show_icons=true&locale=en&layout=compact" alt="csoren66" /></p>
 
